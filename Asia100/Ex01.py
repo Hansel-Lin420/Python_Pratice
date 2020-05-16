@@ -8,7 +8,7 @@ Created on Sat May 16 18:48:17 2020
 """
 input_number = input()
 sum = 0
-for i in input_number:
+for i in (input_number):
   sum += int(i)
 
 print(sum)
