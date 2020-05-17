@@ -10,5 +10,4 @@ input_number = input()
 sum = 0
 for i in (input_number):
   sum += int(i)
-
 print(sum)
